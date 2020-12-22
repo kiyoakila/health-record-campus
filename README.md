@@ -1,4 +1,4 @@
-# Web application serving the management of people entering and leaving the neighborhood
+# Web application serving the management of residents entering and leaving the neighborhood
 This web app is built especially for the pandemic.
 
 This application provides services to three groups of people: residents, gatekeepers and community managers.
