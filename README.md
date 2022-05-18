@@ -1,6 +1,4 @@
-# Web application serving the management of residents entering and leaving the neighborhood
-This web app is built especially for the pandemic.
-
+# Web application serving the management of residents during lockdown
 This application provides services to three groups of people: residents, gatekeepers and community managers.
 1. Is a portal for residents to record health status and request to go out
 2. Helps gatekeepers record the flow of people in and out the neighborhood
