@@ -1,8 +1,10 @@
+During extreme times, the totalitarian state may find various reasons to restrict the activities of the inhabitants. Once the machine starts working, tragedies will occur as both the authorities who impose regulations and the governed come to comprehend their positions.
+
 # Web application serving the management of residents during lockdown
-This application provides services to three groups of people: residents, gatekeepers and community managers.
-1. Is a portal for residents to record health status and request to go out
+This application provides services to residents, gatekeepers and community managers.
+1. Is a portal for residents to record health status and request to leave their house
 2. Helps gatekeepers record the flow of people in and out the neighborhood
-3. Helps community managers manage and add and change resident information, review resident requests to go out, and view the movement of people
+3. Helps community managers manage and add and change resident information, review residents requests, and view the flow of people
 
 ## Frontend:
 - node >= 6.9.0
